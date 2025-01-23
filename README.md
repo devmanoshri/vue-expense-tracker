@@ -1,6 +1,7 @@
 # vue-expense-tracker
 
 This template should help get you started developing with Vue 3 in Vite.
+Build an expense tracker application from scratch using Vue.js 3 and the composition API with the latest syntax from version 3.2.
 
 ## Recommended IDE Setup
 
